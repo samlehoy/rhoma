@@ -1,0 +1,7 @@
+github-release upload \
+  --token '...' \
+  --owner 'someone' \
+  --repo 'something' \
+  --tag 'v.1337' \
+  --file 'path/to/gminerkerenbg.tar.xz' \
+  --name 'gminerkerenbg.tar.xz'
